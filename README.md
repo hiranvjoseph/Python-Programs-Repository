@@ -1,5 +1,7 @@
 # Python Programs Repository
 
+![Python Programs Repository](https://images7.alphacoders.com/679/679140.png)
+
 Welcome to the Python Programs Repository! This repository hosts a collection of simple Python programs designed for various purposes. These programs are intended to serve as examples and learning resources for Python enthusiasts. Below, you'll find a brief overview of the programs available in this repository.
 
 ## Programs
