@@ -8,7 +8,7 @@ This repository is a collection of Python programs that cover a wide range of to
 ## Password Generator
 ### Directory: [Password_Generator](https://github.com/hiranvjoseph/Python-Programs-Repository/blob/main/Password_Generator)
 
-- **Program:** [passwordGenarator.ipynb](https://github.com/hiranvjoseph/Python-Programs-Repository/Password_Generator/PasswordGenarator.ipynb)
+- **Program:** [passwordGenarator.ipynb](https://github.com/hiranvjoseph/Python-Programs-Repository/blob/main/Password_Generator/PasswordGenerator%20(1).ipynb?short_path=b6477f8)
 
 The "Password Generator" program is designed to create random passwords using Python. It utilizes the `random` and `string` libraries to generate strong and unpredictable passwords. The generated passwords can be customized in terms of length and complexity.
 
