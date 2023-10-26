@@ -1,16 +1,57 @@
-Number Guessing Program
+# Number Guessing Game - RandomGuess.py
 
-This program, named number_guess.py, generates a random number between 1 and 10 and asks the user to guess the number. If the user guesses correctly, the program prints a success message. Otherwise, the program prints the correct number.
+![GitHub](https://img.shields.io/github/license/hiranvjoseph/Number-Guessing-Game)
+![GitHub](https://img.shields.io/github/stars/hiranvjoseph/Number-Guessing-Game?style=social)
+![GitHub](https://img.shields.io/github/forks/hiranvjoseph/Number-Guessing-Game?style=social)
 
-To run the program, open a terminal window and navigate to the directory where the program is saved. Then, type the following command:
+## Overview
 
-python number_guess.py
-The program will then generate a random number and ask you to guess it. If you guess correctly, the program will print the following message:
+This Python program, named `RandomGuess.py`, is a simple number guessing game. It generates a random number between 1 and 10 and asks the user to guess the number. If the user guesses correctly, the program prints a success message. Otherwise, it provides the correct number.
 
-Congratulations! You guessed the correct number.
-If you guess incorrectly, the program will print the following message:
+## Table of Contents
 
-Sorry, the correct number was <number>.
-The program will then exit.
+- [Prerequisites](#prerequisites)
+- [How to Play](#how-to-play)
+- [License](#license)
+- [Author](#author)
 
-I hope you enjoy using this program!
+## Prerequisites
+
+Before you start, make sure you have the following installed on your system:
+
+- Python 3 (https://www.python.org/downloads/)
+
+## How to Play
+
+1. Clone this repository to your local machine:
+
+   
+   git clone https://github.com/hiranvjoseph/Number-Guessing-Game.git
+   
+
+2. Navigate to the project directory:
+
+   
+   cd Number-Guessing-Game
+   
+3. Run the game:
+
+   
+   python RandomGuess.py
+  
+
+4. Follow the on-screen instructions to guess the randomly generated number.
+
+5. If you guess correctly, you'll receive a success message. Otherwise, the program will reveal the correct number.
+
+6. Enjoy the game!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- **Hiran Joseph**
+  - GitHub: [hiranvjoseph](https://github.com/hiranvjoseph)
+  - Email: [hiranvjoseph@gmail.com](mailto:hiranvjoseph@gmail.com)
