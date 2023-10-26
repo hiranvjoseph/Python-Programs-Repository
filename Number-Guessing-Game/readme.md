@@ -1,50 +1,85 @@
 # Number Guessing Game - RandomGuess.py
 
-![GitHub](https://img.shields.io/github/license/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game)
-![GitHub](https://img.shields.io/github/stars/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game?style=social)
-![GitHub](https://img.shields.io/github/forks/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game?style=social)
+![GitHub](https://img.shields.io/github/license/hiranvjoseph/Number-Guessing-Game)
+![GitHub](https://img.shields.io/github/stars/hiranvjoseph/Number-Guessing-Game?style=social)
+![GitHub](https://img.shields.io/github/forks/hiranvjoseph/Number-Guessing-Game?style=social)
 
-## Overview
+# Number Guessing Game
 
-This Python program, named `RandomGuess.py`, is a simple number guessing game. It generates a random number between 1 and 10 and asks the user to guess the number. If the user guesses correctly, the program prints a success message. Otherwise, it provides the correct number.
+This is a simple Python program named `RandomGuess.py` that allows the user to play a number guessing game. The program generates a random number between 1 and 10, and the user's task is to guess the correct number.
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [How to Play](#how-to-play)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
-- [Author](#author)
 
-## Prerequisites
+## Getting Started
 
-Before you start, make sure you have the following installed on your system:
+To get started with this program, you need to have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 
-- Python 3 (https://www.python.org/downloads/)
-
-## How to Play
+### Installation
 
 1. Clone this repository to your local machine:
 
-   
-   git clone https://github.com/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game.git
+   git clone https://github.com/hiranvjoseph/Python-Programs-Repository.git
+ 
+
+2. Navigate to the "Number-Guessing-Game" directory:
+
+  
+   cd Python-Programs-Repository/Number-Guessing-Game
    
 
-2. Navigate to the project directory:
+3. Run the program:
 
-   
-   cd Number-Guessing-Game
-   
-3. Run the game:
 
-   
    python RandomGuess.py
   
 
-4. Follow the on-screen instructions to guess the randomly generated number.
+## Usage
 
-5. If you guess correctly, you'll receive a success message. Otherwise, the program will reveal the correct number.
+1. Run the program following the instructions in the "Getting Started" section.
 
-6. Enjoy the game!
+2. The program will generate a random number between 1 and 10.
+
+3. You will be prompted to enter your guess for the generated number.
+
+4. If your guess is correct, the program will display a success message. If your guess is incorrect, the program will display the correct number.
+
+5. You can continue playing by re-running the program.
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Clone your fork locally.
+
+   
+   git clone https://github.com/hiranvjoseph/Python-Programs-Repository.git
+   
+
+3. Create a new branch for your feature or bug fix.
+
+   
+   git checkout -b feature-name
+   
+
+4. Make your changes and commit them.
+
+
+   git commit -m "Your commit message here"
+   
+
+5. Push your changes to your fork on GitHub.
+
+   git push origin feature-name
+   
+
+6. Create a Pull Request on the original repository.
 
 ## License
 
