@@ -1,8 +1,8 @@
 # Number Guessing Game - RandomGuess.py
 
-![GitHub](https://img.shields.io/github/license/hiranvjoseph/Number-Guessing-Game)
-![GitHub](https://img.shields.io/github/stars/hiranvjoseph/Number-Guessing-Game?style=social)
-![GitHub](https://img.shields.io/github/forks/hiranvjoseph/Number-Guessing-Game?style=social)
+![GitHub](https://img.shields.io/github/license/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game)
+![GitHub](https://img.shields.io/github/stars/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game?style=social)
+![GitHub](https://img.shields.io/github/forks/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game?style=social)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Before you start, make sure you have the following installed on your system:
 1. Clone this repository to your local machine:
 
    
-   git clone https://github.com/hiranvjoseph/Number-Guessing-Game.git
+   git clone https://github.com/hiranvjoseph/Python-Programs-Repository/Number-Guessing-Game.git
    
 
 2. Navigate to the project directory:
