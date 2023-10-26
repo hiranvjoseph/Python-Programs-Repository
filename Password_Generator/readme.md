@@ -6,7 +6,7 @@ Welcome to the Python Programs Repository by Hiran Joseph.
 This repository is a collection of Python programs that cover a wide range of topics and functionalities. Each directory within this repository represents a specific program or project. In this directory, we have a simple yet useful program that generates random passwords using Python.
 
 ## Password Generator
-### Directory: [Password_Generator](https://github.com/hiranvjoseph/Password_Generator/PasswordGenerator (1).ipynb)
+### Directory: [Password_Generator](https://github.com/hiranvjoseph/Python-Programs-Repository/blob/main/Password_Generator)
 
 - **Program:** [passwordGenarator.ipynb](https://github.com/hiranvjoseph/Python-Programs-Repository/Password_Generator/PasswordGenarator.ipynb)
 
