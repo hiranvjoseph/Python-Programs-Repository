@@ -1,67 +1,51 @@
-# Bus Ticket Booking App
+# Bike Rental System
 
-This is a simple bus ticket booking application created using Python and Tkinter. It allows users to book and cancel bus seats for various trip routes, and it displays the current status of each trip route, including the number of available and booked seats.
+This is a simple Python-based Bike Rental System that allows users to register, add bike stations, reserve bikes, and return bikes. It serves as an educational example of how to use Python's Object-Oriented Programming (OOP) concepts to model and simulate a bike sharing system.
 
-## Table of Contents
+## Author Information
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- User registration with user ID and user name.
-- Selection of departure and destination points (not implemented in this basic version).
-- Booking and canceling seats based on user ID.
-- Real-time display of the status for each trip route.
-- Easy-to-use graphical user interface (GUI) built with Tkinter.
+- **Name**: Hiran
+- **GitHub Username**: hiranvjoseph
+- **Email**: hiranvjoseph@gmail.com
 
 ## Getting Started
 
-### Prerequisites
+To use this Bike Rental System, follow the instructions below:
 
-- Python 3.x (https://www.python.org/downloads/)
-- Tkinter (usually included with Python)
+1. Clone the repository to your local machine:
 
-### Installation
-
-1. Clone the repository:
-
- 
+  
    git clone https://github.com/hiranvjoseph/Python-Programs-Repository.git
    cd hiran
-
-
-2. Run the application:
-
-
-   python main.py
   
 
-## Usage
+2. Run the `bike_rental.py` script:
 
-1. Launch the application by running `main.py`.
+   python bike_rental.py
+ 
+3. Follow the on-screen prompts to register users, add bike stations, reserve bikes, and return bikes.
 
-2. Enter your User ID and User Name in the provided entry fields.
+## Features
 
-3. Select your departure and destination points (not implemented in this basic version).
+- User Registration: Users can register by providing their user ID, username, and email.
+- Bike Station Management: You can add bike stations with station ID, location, and capacity.
+- Bike Addition: Add bikes to stations by specifying the bike ID, bike type, and the station where the bike will be placed.
+- Bike Reservation: Users can reserve available bikes by specifying their user ID and the bike they want to reserve.
+- Bike Return: Users can return bikes by providing their user ID if they have an active reservation.
 
-4. Choose a trip route from the available options.
+## Example Usage
 
-5. Click the "Reserve Seat" button to book a seat. If a seat is available, a success message will be displayed.
+python bike_rental.py
 
-6. Click the "Cancel Reservation" button to cancel a reservation. If a reservation exists, a success message will be displayed.
-
-7. The trip status text widget will display the current status of each trip route, including the number of available and booked seats.
-
-8. Click the "Quit" button to exit the application.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features you'd like to add.
+Follow the prompts to interact with the Bike Rental System.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project is based on a simplified example and serves as an educational resource.
+- Feel free to use and modify it for your own projects or educational purposes.
+
+Thank you for checking out the Bike Rental System project!
